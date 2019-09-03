@@ -1,3 +1,5 @@
+package rest;
+
 public class Hello {
     private String text = "Hello JSON-world";
 
